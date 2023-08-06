@@ -11,7 +11,7 @@ body {
 }
 a {
 	text-decoration: none;
-	color: #c58940;
+	color: #4064c5;
 	cursor: pointer;
 }
 input,
@@ -55,7 +55,7 @@ button {
 	background-color: #e6ddc4;
 }
 .dashboard__nav {
-	background-color: #c58940;
+	background-color: #4064c5;
 	height: 10vh;
 	width: 100%;
 	padding: 20px;
